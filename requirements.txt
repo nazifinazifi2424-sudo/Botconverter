@@ -1,0 +1,12 @@
+pyTelegramBotAPI
+requests
+flask
+gunicorn
+psycopg2-binary
+beautifulsoup4
+pyrofork
+aiohttp
+tgcrypto
+Pyrogram==2.0.106
+TgCrypto
+psutil
